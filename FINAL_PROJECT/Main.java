@@ -27,8 +27,8 @@ public class Main {
 
                 // prints grocery list
                 case 1:
-                additem();
-                break;
+                    additem();
+                    break;
 
                 // allows the user to input and add a new item in the list
                 case 2:
